@@ -1,12 +1,22 @@
-# Coffee_Shop_Sales_Dashboard
+# Coffee_Shop_Sales_Dashboard ☕ 
 
-## Project Description
+## Project Overview
 
-The goal of this project is to create a dashboard of sales data for coffee store. The main objective is transform raw data into actionable insights that drive smarter business decisions. The project involved a meticulous process, from collecting data to crafting visualizations that offer deep insights.
+Welcome to the Coffee Shop Sales Data Analysis project repository! This project showcases an in-depth data analysis of coffee shop sales using advanced Excel techniques. The analysis provides insights into customer information, product details, and valuable business metrics.
+
+## Key Objectives
+
+- How do sales vary by day of the week and hour of the day?
+- Are there any peak times for sales activity?
+- What is the total sales revenue for each month?
+- How do sales vary across different store locations?
+- what is the average price/order per person
+- Which products are the best selling in terms of quantity and revenue?
+- How do sales vary by product category and type?
 
 ## Tech Stack Used 
 
-![Excel](https://img.icons8.com/color/256/microsoft-excel-2010.png)
+![Excel](https://img.icons8.com/color/256/microsoft-excel-2019.png)
 
 ## Skills showcased in this Project
 
@@ -24,7 +34,7 @@ This stage began with creating a working sheet and transforming the datasets pre
 
 ## Data Analysis
 
-3 pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between sales and other factors such as product category, store location, product type. 
+pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between sales and other factors such as product category, store location, product type. 
 
 ## Data Visualization
 
@@ -34,5 +44,16 @@ Below is a snippet of the final dashboard in Excel.
 
 ![Coffee Sales Dashboard]
 
-
 ## Business Insights
+
+Our analysis yielded valuable business insights:
+
+- Total Sales Over Time: Visualized the trend of total sales over a defined period.
+- Sales by Country: Explored the distribution of sales across different countries.
+- Top 5 Customers: Identified the top five customers based on their purchasing behavior.
+
+## Project Conclusion
+
+Thank you for exploring our Coffee Shop Sales Data Analysis project. This repository demonstrates our adeptness in utilizing Excel for insightful data analysis. We invite you to delve into our findings and techniques, which can serve as a valuable resource for similar projects.
+
+Feel free to reach out if you have any questions or feedback. Enjoy your exploration of the project!
