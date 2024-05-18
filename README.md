@@ -40,20 +40,16 @@ pivot tables were created to summarise the data and help identify trends in the 
 
 Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table on a separate sheet named “Dashboard”. For user friendly and interactive experience 3 "Slicers" were added.
 
-Below is a snippet of the final dashboard in Excel.
-
-![Coffee Sales Dashboard]
-
 ## Business Insights
 
 Our analysis yielded valuable business insights:
 
-- Total Sales Over Time: Visualized the trend of total sales over a defined period.
-- Sales by Country: Explored the distribution of sales across different countries.
-- Top 5 Customers: Identified the top five customers based on their purchasing behavior.
+- Quantity Ordered based on Hours
+- Sales by Store Location: Explored the distribution of sales across different Store Location.
+- Top 5 Products: Identified the top five Products based on their Sales.
+  
 
 ## Project Conclusion
 
 Thank you for exploring our Coffee Shop Sales Data Analysis project. This repository demonstrates our adeptness in utilizing Excel for insightful data analysis. We invite you to delve into our findings and techniques, which can serve as a valuable resource for similar projects.
 
-Feel free to reach out if you have any questions or feedback. Enjoy your exploration of the project!
