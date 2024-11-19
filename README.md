@@ -42,5 +42,4 @@ Finally, the dashboard was created by inserting and customizing the pivot charts
 
 ## Project Conclusion
 
-Thank you for exploring our Coffee Shop Sales Data Analysis project. This repository demonstrates our adeptness in utilizing Excel for insightful data analysis. We invite you to delve into our findings and techniques, which can serve as a valuable resource for similar projects.
-
+the analysis of monthly sales, transaction trends, and product categories across three stores provides valuable insights into the business performance. Interestingly, Lower Manhattan, while making the least in revenue, makes the most during peak hours compared to the other stores. Astoria makes the most during non-peak hours compared to the other stores despite reduced operational hours. All stores are close to each other in terms revenue generated. This comprehensive analysis equips the business with actionable insights for optimizing operations and maximizing revenue across all three locations.
